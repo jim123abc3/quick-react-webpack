@@ -1,7 +1,8 @@
 import React from 'react';
+import './app.css';
 
 const App = () => {
-  return ( <div>Yooo</div>
+  return ( <h1 className="text-primary text-4xl font-bold">Yooo</h1>
   )
 }
 
